@@ -2,6 +2,8 @@
 
 Compose your salad, check calories, and most important: have fun!
 
+### [Mockups](https://www.figma.com/file/0Haqyd3J7QX0849RuskYaP/Sa%C5%82atka?node-id=1%3A10&mode=dev)
+
 ## Requirements
 
 - `npm: v6.14.4`
