@@ -1,13 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">
-        My salad
-      </h1>
+    <div>
+      <h1 className='text-3xl font-bold underline'>My salad</h1>
     </div>
   );
 }
