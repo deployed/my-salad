@@ -26,7 +26,7 @@ Do zaimplementowania funkcjonalności aplikacji będą potrzebne następujące A
 
 ### Elementy strony
 
-![Create salad page structure](/images/create_salad_page_structure.png)
+![Create salad page structure](./images/create_salad_page_structure.png)
 
 #### Lista produktów
 
@@ -42,17 +42,17 @@ Do zaimplementowania funkcjonalności aplikacji będą potrzebne następujące A
 
 #### Urządzenia mobilne:
 
-![Create salad mobile](/images/create_salad_mobile.png)
+![Create salad mobile](./images/create_salad_mobile.png)
 
 #### Urządzenia desktopowe
 
-![Create salad desktop](/images/create_salad_desktop.png)
+![Create salad desktop](./images/create_salad_desktop.png)
 
 ## Strona zarządzania zawartością sałatki
 
 ### Elementy strony
 
-![Salad details page structure](/images/salad_details_page_structure.png)
+![Salad details page structure](./images/salad_details_page_structure.png)
 
 #### Lista dodanych składników
 
@@ -68,8 +68,8 @@ Do zaimplementowania funkcjonalności aplikacji będą potrzebne następujące A
 
 #### Urządzenia mobilne:
 
-![Salad details mobile](/images/salad_details_mobile.png)
+![Salad details mobile](./images/salad_details_mobile.png)
 
 #### Urządzenia desktopowe
 
-![Salad details desktop](/images/salad_details_desktop.png)
+![Salad details desktop](./images/salad_details_desktop.png)

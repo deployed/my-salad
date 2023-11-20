@@ -6,7 +6,7 @@ Compose your salad, check calories, and most important: have fun!
 
 ## Requirements
 
-- `npm: v6.14.4`
+- `npm: v7.24.2`
 - `node: v18.18.2`
 
 ### Available Scripts
