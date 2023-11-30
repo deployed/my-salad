@@ -20,7 +20,7 @@ Każda ze stron zawiera trzy główne komponenty:
 Do zaimplementowania funkcjonalności aplikacji będą potrzebne następujące API:
 
 - [Pexels API](https://www.pexels.com/api/documentation/) - zdjęcia produktów
-- [Fruityvice API](https://www.fruityvice.com) - informacje o wartościach odżywczych produktów
+- [Fruityvice API](https://www.fruityvice.com) - informacje o wartościach odżywczych produktów, [proxy](https://proxyserver-phi.vercel.app/)
 
 ## Strona tworzenia sałatki
 
