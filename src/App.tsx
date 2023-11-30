@@ -1,4 +1,5 @@
 import Button from './components/Button';
+import Products from './components/Products';
 import icon from './images/fruit-bowl.svg';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Button onClick={() => alert('hello')} icon={icon}>
         TEST
       </Button>
+      <Products />
     </div>
   );
 }
